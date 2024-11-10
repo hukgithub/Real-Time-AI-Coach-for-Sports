@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+openpose-python (or Hugging Face model if OpenPose is available there)
+gradio
+torch
+transformers
+pyttsx3
